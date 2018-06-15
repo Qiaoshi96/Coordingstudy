@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coordingstudy</string>
+    <string name="bb">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`¬!"£$%^*()~=#{}[];':,./?/*-_+&#060;&#062;&#064;&#038;</string>
+</resources>

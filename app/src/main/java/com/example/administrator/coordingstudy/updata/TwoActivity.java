@@ -15,6 +15,7 @@ public class TwoActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_two);
         //加载Fragmentfram
+        //再次提交
         OneFragment oneFragment = new OneFragment();
         getSupportFragmentManager().beginTransaction().replace(R.id.fram,oneFragment).commit();
 

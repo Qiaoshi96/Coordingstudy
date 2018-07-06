@@ -10,7 +10,10 @@ import com.example.administrator.coordingstudy.Main2Activity;
 import com.example.administrator.coordingstudy.R;
 
 public class ThreeActivity extends BaseActivity {
-
+    /**
+     * 第二次上传
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

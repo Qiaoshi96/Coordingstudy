@@ -13,6 +13,8 @@ public class ThreeActivity extends BaseActivity {
     /**
      * 第二次上传
      * @param savedInstanceState
+     *
+     * 这个是本地发
      */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
